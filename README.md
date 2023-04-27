@@ -2,7 +2,7 @@
 readmeのテスト用
 
 1. `testtest`
-```diff
-- #hogehoge
-+ hogehoge
-```
+   ```diff
+   - #hogehoge
+   + hogehoge
+   ```
